@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-family: 'Lilita One', cursive;
+  margin: 5px;
+}
+
+h2 {
+  font-family: 'Lilita One', cursive;
+  font-size: 40px;
+  margin: 5px;
+}
+
+h3  {
+  font-family: 'lato', sans-serif;
+  font-size: 15px;
+}
+
+nav {
+  height: 120px;
+}
+
+nav ul a {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.nav-wrapper{
+  background-color: #535869;
+}
+
+
+
+
+
+
+
