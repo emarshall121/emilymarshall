@@ -8,17 +8,20 @@
 h1 {
   font-family: 'Lilita One', cursive;
   margin: 5px;
+  color: #253651;
 }
 
 h2 {
   font-family: 'Lilita One', cursive;
   font-size: 40px;
   margin: 5px;
+  color: #253651;
 }
 
 h3  {
   font-family: 'lato', sans-serif;
   font-size: 15px;
+  color: #253651;
 }
 
 nav {
