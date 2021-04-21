@@ -2,7 +2,7 @@
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'oswald', sans-serif;
 }
 
 h1 {
@@ -19,7 +19,7 @@ h2 {
 }
 
 h3  {
-  font-family: 'lato', sans-serif;
+  font-family: 'oswald', sans-serif;
   font-size: 15px;
   color: #253651;
 }
